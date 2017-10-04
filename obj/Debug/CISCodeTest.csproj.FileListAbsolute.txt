@@ -1,0 +1,8 @@
+c:\users\mmartinez\documents\visual studio 2015\Projects\CISCodeTest\bin\Debug\CISCodeTest.exe.config
+c:\users\mmartinez\documents\visual studio 2015\Projects\CISCodeTest\bin\Debug\CISCodeTest.exe
+c:\users\mmartinez\documents\visual studio 2015\Projects\CISCodeTest\bin\Debug\CISCodeTest.pdb
+c:\users\mmartinez\documents\visual studio 2015\Projects\CISCodeTest\bin\Debug\Newtonsoft.Json.dll
+c:\users\mmartinez\documents\visual studio 2015\Projects\CISCodeTest\bin\Debug\Newtonsoft.Json.xml
+c:\users\mmartinez\documents\visual studio 2015\Projects\CISCodeTest\obj\Debug\CISCodeTest.csprojResolveAssemblyReference.cache
+c:\users\mmartinez\documents\visual studio 2015\Projects\CISCodeTest\obj\Debug\CISCodeTest.exe
+c:\users\mmartinez\documents\visual studio 2015\Projects\CISCodeTest\obj\Debug\CISCodeTest.pdb
